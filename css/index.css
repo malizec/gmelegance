@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#111;
+	text-align:center;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+/*********HEADER**************/
+div.header{
+	width:970px;
+	height:120px;
+	margin:0px auto 0px auto;
+	text-align:left;
+	padding:0px 0px 0px 0px;
+}
+
+/*********CONTEINER**************/
+div.conteiner{
+	width:930px;
+	height:400px;
+	margin:0px auto 0px auto;
+	text-align:center;
+	padding:20px 20px 20px 20px;
+}
+		img.conteiner{
+			margin:0pc auto 0px auto;
+		}
+
+/*********FOOTER**************/
+div.footer{
+	width:970px;
+	height:120px;
+	margin:0px auto 0px auto;
+	text-align:left;
+	padding:0px 0px 0px 0px;
+}
+		.footer h1{
+			color:#CCC;
+			font-style:italic;
+		}
+
+		div.footer-left{
+			float:left;
+			text-align:center;
+			width:50%;
+			height:90px;
+		}
+		div.footer-right{
+			float:left;
+			text-align:center;
+			width:50%;
+			height:90px;
+		}
+		div.footer-down{
+			height:30px;
+			text-align:center;
+			clear:both;
+			letter-spacing:1px;
+			line-height:1px;
+			color:#222;
+		}
+
+/*********OSTALO**************/
+h1{
+	margin:0px;
+}
+
+/*********LINKS**************/
+
+a.links{
+	color:#555;
+	text-decoration:none;
+}
+a.links:hover{
+	color:#F60;
+	text-decoration:underline;
+}
+iframe{
+	border:none;
+}
+
+/***************Counter********/
+.counter{
+	color:#FFF;
+	text-align:center;
+}
+#counter{
+	text-align:center;
+	color:#222;
+	font-size:36px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+}

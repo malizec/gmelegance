@@ -1,0 +1,14 @@
+<gallery>
+  <album name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Album&lt;/font&gt;" description="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Album Description Here&lt;/font&gt;">
+    <slide type="img" src="slideshowImg/1.jpg" tnsrc="slideshowImg/tn_baronnis.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;baronnis.jpg&lt;/font&gt;" description="Baron"/>
+    <slide type="img" src="slideshowImg/2.jpg" tnsrc="slideshowImg/tn_boyd3a.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Pictures2.jpg&lt;/font&gt;" description="Pictures2"/>
+    <slide type="img" src="slideshowImg/3.jpg" tnsrc="slideshowImg/tn_boyd3a.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Pictures3.jpg&lt;/font&gt;" description="Pictures3"/>
+    <slide type="img" src="slideshowImg/4.jpg" tnsrc="slideshowImg/tn_boyd3a.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Pictures4.jpg&lt;/font&gt;" description="Pictures4"/>
+    <slide type="img" src="slideshowImg/5.jpg" tnsrc="slideshowImg/tn_boyd3a.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Pictures5.jpg&lt;/font&gt;" description="Pictures5"/>
+    <slide type="img" src="slideshowImg/6.jpg" tnsrc="slideshowImg/tn_boyd3a.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Pictures6.jpg&lt;/font&gt;" description="Pictures6"/>
+    <slide type="img" src="slideshowImg/7.jpg" tnsrc="slideshowImg/tn_boyd3a.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Pictures7.jpg&lt;/font&gt;" description="Pictures7"/>
+    <slide type="img" src="slideshowImg/8.jpg" tnsrc="slideshowImg/tn_boyd3a.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Pictures8.jpg&lt;/font&gt;" description="Pictures8"/>
+    <slide type="img" src="slideshowImg/9.jpg" tnsrc="slideshowImg/tn_boyd3a.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Pictures9.jpg&lt;/font&gt;" description="Pictures9"/>
+    <slide type="img" src="slideshowImg/10.jpg" tnsrc="slideshowImg/tn_boyd3a.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Pictures10.jpg&lt;/font&gt;" description="Pictures10"/>
+  </album>
+</gallery>

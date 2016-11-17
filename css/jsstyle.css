@@ -1,0 +1,130 @@
+/*************MENU**************/
+
+#menu-ul-2{
+	width:200px;
+	height:auto;
+	background-color:#000;
+	position:absolute;
+	margin:-28px 0px 0px 190px;
+	display:none;
+	z-index:500;
+}
+		li.menu-ul-2{
+			list-style:none;
+			text-align:left;
+			font-style:normal;
+			font-weight:bold;
+			font-size:16px;
+			width:180px;
+			height:30px;
+			padding:10px 10px 0px 10px;
+			margin:0px 0px 0px 0px;
+			border-bottom:1px solid #111;
+		}
+		li.menu-ul-2:hover{
+			background-color:#222;
+			background-image:url(../images/button-bg.png);
+		}
+#menu-ul-2-zenke{
+	width:200px;
+	height:auto;
+	background-color:#000;
+	position:absolute;
+	margin:-28px 0px 0px 190px;
+	display:none;
+	z-index:1000;
+}
+		li.menu-ul-2-zenke{
+			list-style:none;
+			text-align:left;
+			font-style:normal;
+			font-weight:bold;
+			font-size:16px;
+			width:180px;
+			height:40px;
+			padding:10px 10px 0px 10px;
+			margin:0px 0px 0px 0px;
+			border-bottom:1px solid #111;
+		}
+		li.menu-ul-2-zenke:hover{
+			background-color:#222;
+			background-image:url(../images/button-bg.png);
+		}
+#menu-ul-2-stenci{
+	width:200px;
+	height:auto;
+	background-color:#000;
+	position:absolute;
+	margin:-28px 0px 0px 190px;
+	display:none;
+	z-index:1000;
+}
+		li.menu-ul-2-stenci{
+			list-style:none;
+			text-align:left;
+			font-style:normal;
+			font-weight:bold;
+			font-size:16px;
+			width:180px;
+			height:40px;
+			padding:10px 10px 0px 10px;
+			margin:0px 0px 0px 0px;
+			border-bottom:1px solid #111;
+		}
+		li.menu-ul-2-stenci:hover{
+			background-color:#222;
+			background-image:url(../images/button-bg.png);
+		}
+#menu-ul-2-muzjaci{
+	width:200px;
+	height:auto;
+	background-color:#000;
+	position:absolute;
+	margin:-28px 0px 0px 190px;
+	display:none;
+	z-index:1500;
+}
+		li.menu-ul-2-muzjaci{
+			list-style:none;
+			text-align:left;
+			font-style:normal;
+			font-weight:bold;
+			font-size:16px;
+			width:180px;
+			height:30px;
+			padding:10px 10px 0px 10px;
+			margin:0px 0px 0px 0px;
+			border-bottom:1px solid #111;
+		}
+		li.menu-ul-2-muzjaci:hover{
+			background-color:#222;
+			background-image:url(../images/button-bg.png);
+		}
+		
+/*************psi img**************/
+
+img#zenkeimg{
+	width:280px;
+	height:190px;
+	background-color:#000;
+	position:absolute;
+	padding:0px 0px 0px 0px;
+	margin:-28px 0px 0px 190px;
+	display:none;
+	z-index:1500;	
+}
+		li.zenkeImg{
+			float:left;
+			padding:0px 0px 0px 0px;
+			position:absolute;
+			margin:0px 0px 0px 0px;
+		}
+		
+		
+/***************** header menu ***************/
+
+ul#header-menu{
+}
+	ul#header-submenu{
+		display:none;
+	}
